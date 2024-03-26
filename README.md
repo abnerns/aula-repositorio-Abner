@@ -1,2 +1,3 @@
 # aula-repositorio-Abner
-exercicio da aula de requisitos
+
+Este repositório foi criado na aula de desenvolvimento ágil
